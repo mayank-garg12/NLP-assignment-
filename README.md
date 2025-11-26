@@ -79,9 +79,9 @@ Negative*
 
 #### Google Colab Links
 
-Assignment 1: https://colab.research.google.com/drive/1GeDINi2vQcXu-B5QSF7GWRVqCknEaoDL?usp=sharing
+Assignment 1: https://colab.research.google.com/drive/1EDnI5qrJQQweRcwkydUP4rCmna3IO1kO?usp=sharing
 
-Assignment 2: https://colab.research.google.com/drive/1Dbgm3U1pvyHfNcTKOscNxU-4myuhtUzw?usp=sharing
+Assignment 2: https://colab.research.google.com/drive/1_BqQi4p4CSQC8m9nzpMElLA4WBZZmXn5?usp=sharing
 
 #### Conclusion
 
